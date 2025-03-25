@@ -2,6 +2,8 @@ public class Aluno {
     private String endereco;
     private int rm;
     private String queroMeMatar;
+
+    
     public String getEndereco() {
         return endereco;
     }
